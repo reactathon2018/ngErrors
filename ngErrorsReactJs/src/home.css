@@ -1,0 +1,28 @@
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    width: 80%;
+    height: 70px;    
+}
+
+.leftAlign{
+    text-align : left;
+    width:50%;
+}
+.rightAlign{
+    float : right;
+    text-align : right;
+    width:50%;
+}
+
+.fontWeight{
+    font-weight: bold;
+}
+
+.applyButton{
+    width:100px;
+    height:40px;
+    text-align: center;
+    float:right;
+}
